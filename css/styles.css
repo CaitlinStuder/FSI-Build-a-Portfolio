@@ -1,0 +1,15 @@
+div {
+    background-color: rgb(133, 192, 231);
+    color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 20px;
+    text-indent: 50px;
+}
+.section1 {
+    background-color: white;
+    color:rgb(0, 0, 0);
+    text-align: center;
+    border-style: solid;
+    border-radius: 20px;
+
+}
